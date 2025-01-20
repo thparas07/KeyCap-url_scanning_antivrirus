@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Antivirus</string>
+    <string name="URL">Scan URL </string>
+    <string name="file">Start for Process Scan </string>
+    <string name="Choose_File">Scan background Process</string>
+    <string name="Scan_File">Scan ProcessID</string>
+    <string name="Results">Results:</string>
+    <string name="URL_HINT">Enter URL to scan</string>
+    <string name="enter_url_to_scan">Enter URL to scan</string>
+    <string name="scan_url">Scan URL</string>
+    <string name="scan_file">Scan File</string>
+    <string name="scan_results_will_appear_here">Scan results will appear here</string>
+</resources>
